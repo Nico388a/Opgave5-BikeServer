@@ -7,7 +7,7 @@ namespace TCPServer5
         static void Main(string[] args)
         {
             BikeServer b1 = new BikeServer();
-
+            
             b1.Start();
         }
     }
